@@ -1,4 +1,4 @@
-# Bank Loan Modeling
+# Bank Loan Modelling
 
 #### **Data Science Course - Assignment 1** 
 
