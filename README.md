@@ -8,19 +8,19 @@ The file train_data.csv contains data on 4500 customers. The data include custom
 
 #### **Colmns:**
 
-**ID**: Customer ID
-**Age:** Customer's age in completed years
-**Experience:** Number of years of professional experience
-**Income:** Annual income of the customer
-**ZIP Code:** Home Address ZIP code.
-**Family:** Family size of the customer
-**CCAvg:** Avg. spending on credit cards per month
-**Education:** Education Level. 1: Undergrad; 2: Graduate; 3: Advanced/Professional
-**Mortgage:** Value of house mortgage if any.
-**Personal Loan:** Did this customer accept the personal loan offered in the last campaign?
-**Securities Account:** Does the customer have a securities account with the bank?
-**CD Account:** Does the customer have a certificate of deposit (CD) account with the bank?
-**Online:** Does the customer use internet banking facilities?
-**CreditCard:** Does the customer use a credit card issued by this Bank?
+**ID**: Customer ID<br>
+**Age:** Customer's age in completed years<br>
+**Experience:** Number of years of professional experience<br>
+**Income:** Annual income of the customer<br>
+**ZIP Code:** Home Address ZIP code.<br>
+**Family:** Family size of the customer<br>
+**CCAvg:** Avg. spending on credit cards per month<br>
+**Education:** Education Level. 1: Undergrad; 2: Graduate; 3: Advanced/Professional<br>
+**Mortgage:** Value of house mortgage if any. <br>
+**Personal Loan:** Did this customer accept the personal loan offered in the last campaign?<br>
+**Securities Account:** Does the customer have a securities account with the bank?<br>
+**CD Account:** Does the customer have a certificate of deposit (CD) account with the bank?<br>
+**Online:** Does the customer use internet banking facilities?<br>
+**CreditCard:** Does the customer use a credit card issued by this Bank?<br>
 
 Your job is to do EDA and build a classification model to predict whether a customer accepts the Personal Loan or not? In your jupyter notebook, per cell, you need to explain (in natural language) why you are doing that part. Also, you need to explain what you have gained/understood from that part. If you only provide code, you will not get any mark (I need reasons). I've shuffled and separated a portion of the data for the private assessment of your task.
